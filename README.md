@@ -1,7 +1,7 @@
 # superherohunter 
 hosted link:-
 
-#[ https://karanfulare.github.io/superherohunter/ ](https://64f97337ac284f4148fe1917--statuesque-palmier-82676d.netlify.app/)
+#[](https://github.com/pkundu307/superherohunter-main)/ ](https://64f97337ac284f4148fe1917--statuesque-palmier-82676d.netlify.app/)
 
 ## Here in this app you can search your desired superheroes and villians , you can add them to favourites list also.
 
