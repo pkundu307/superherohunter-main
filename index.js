@@ -18,7 +18,7 @@ search.onkeyup = function () {
   var searchname = search.value;
   if (searchname !== "") {
     fetch(
-      "https://superheroapi.com/api.php/ e93b91edf883c2a024821186c98c03ed/search/" +
+      "https://superheroapi.com/api.php/e93b91edf883c2a024821186c98c03ed/search/" +
         searchname.trim()
     )
       .then((response) => response.json())
